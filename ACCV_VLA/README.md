@@ -1,0 +1,1 @@
+DEAD-VLA: Robust Vision-Language-Action Models via Chain of Thought and Depth-Aware Spatial Reasoning
